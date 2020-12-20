@@ -1,2 +1,2 @@
-# LSTM_project
+# LSTM Assignments
 RNN &amp; LSTM class assignments
